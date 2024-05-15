@@ -78,33 +78,3 @@ Content/ParagonMinions/FX/Textures/Environment/T_RevaCliff_N.uasset
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_PerlinElectric_Packed.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_PerlinElectric_Packed_Gchannel_N.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_PerlinElectric_Packed_Rchannel_N.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_PerlinPlasma_Gchannel_N.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_PerlinPlasma_Noisey_Packed.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_Plasma_Noise.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_random_noise_highfreq_rgb.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_sinisternoise_nm.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_SmokeRend_N.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_SmokeTile_N.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_Smooth_tile.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_Soft_Noise.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_soft_noise_even_distribution.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_SparkleNoise.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_Starfield_Noise01.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_SwirlNoise.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_Swirly_Noise.uasset
-Content/ParagonMinions/FX/Textures/Tile/Noise/T_Swirly_Noise_highContrast.uasset
-Content/TokyoStylizedEnvironment/DemoContent/StarterContent/Audio/Starter_Wind05.uasset
-Content/TokyoStylizedEnvironment/DemoContent/StarterContent/Audio/Starter_Wind06.uasset
-Content/TokyoStylizedEnvironment/DemoContent/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
-Content/TokyoStylizedEnvironment/Materials/Unique_RoadBarriers/MI_RoadBarriers_BlueEmissive.uasset
-Content/TokyoStylizedEnvironment/Materials/Unique_RoadBarriers/MI_RoadBarriers_RedEmissive.uasset
-Content/TokyoStylizedEnvironment/Materials/Unique_RoadFences/M_RoadFences_Master.uasset
-Content/TokyoStylizedEnvironment/Materials/Unique_RoadFences/M_RoadFences_Master_GreenAll.uasset
-Content/TokyoStylizedEnvironment/Materials/Unique_RoadFences/M_RoadFences_Master_YellowAll.uasset
-Content/TokyoStylizedEnvironment/Materials/Unique_RoadFences/M_RoadFences_Orange.uasset
-Content/TokyoStylizedEnvironment/Materials/Unique_RoadFences/MI_RoadFences_Dark.uasset
-Content/TokyoStylizedEnvironment/Materials/Unique_RoadFences/MI_RoadFences_GreenAccent.uasset
